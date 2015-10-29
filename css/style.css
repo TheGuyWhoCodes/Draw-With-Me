@@ -1,0 +1,23 @@
+/* HEY THERE CHRIS WELCOME TO YOUR CSS */
+/*
+Let's document some color codes:
+
+Amber Start Screen: #FFC107;
+
+*/
+@import url(https://fonts.googleapis.com/css?family=Montserrat); /* A good 'ol font */
+
+.splash {
+	width:100vw;
+	height:100vh;
+	z-index: 100;
+	background-color: #FFC107;
+	text-align: center;
+}
+
+.main-text {
+	color:#FFF;
+	padding-top: 10%;
+	font-size: 4.3em;
+	font-family: 'Montserrat';
+}
