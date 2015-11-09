@@ -21,3 +21,12 @@ Amber Start Screen: #FFC107;
 	font-size: 4.3em;
 	font-family: 'Montserrat';
 }
+
+footer {
+	position:absolute;
+	bottom:0;
+	background-color:#bebebe;
+	text-align:center;
+	height:10vh;
+	width:100vw;
+}
